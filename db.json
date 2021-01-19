@@ -1,0 +1,27 @@
+{
+    "peliculas": [{
+            "nombre": "Chuki",
+            "director": "Josue",
+            "anio": 1994,
+            "para_menores": false
+        },
+        {
+            "nombre": "Piratas del Caribe",
+            "director": "Pablito",
+            "anio": 1992,
+            "para_menores": true
+        },
+        {
+            "nombre": "Pinocho",
+            "director": "Jhamil",
+            "anio": 1993,
+            "para_menores": false
+        },
+        {
+            "nombre": "El resplandor",
+            "director": "Fazo",
+            "anio": 1998,
+            "para_menores": true
+        }
+    ]
+}
